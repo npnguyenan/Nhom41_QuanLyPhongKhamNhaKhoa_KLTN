@@ -3,7 +3,7 @@
 ## 1. GIỚI THIỆU
 
 ### 1.1 Mục đích
-Hệ thống Quản lý phòng khám nha khoa T&A được phát triển nhằm giúp bệnh nhân dễ dàng đặt lịch khám bệnh tại phòng khám nha khoa, giúp quản lý lịch hẹn hiệu quả cho phòng khám nha khoa và cải thiện trải nghiệm sử dụng dịch vụ cho người dùng.
+Hệ thống Quản lý phòng khám nha khoa T&A được phát triển nhằm giúp khách hàng dễ dàng đặt lịch khám tại phòng khám nha khoa, giúp quản lý lịch hẹn hiệu quả cho phòng khám và cải thiện trải nghiệm sử dụng dịch vụ cho người dùng.
 
 ### 1.2 Phạm vi
 Hệ thống cung cấp các chức năng:
