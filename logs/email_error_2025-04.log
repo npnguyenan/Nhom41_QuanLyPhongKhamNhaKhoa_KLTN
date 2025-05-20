@@ -1,0 +1,4 @@
+2025-04-27 18:25:16 | ERROR | To: trancongtien406@gmail.com | Subject: [Thử nghiệm] Kiểm tra cấu hình email từ Nha Khoa T&A | Error: SMTP Error: Could not authenticate.
+2025-04-27 18:25:28 | ERROR | To: trancongtien406@gmail.com | Subject: [Thử nghiệm] Kiểm tra cấu hình email từ Nha Khoa T&A | Error: SMTP Error: Could not authenticate.
+2025-04-27 19:33:14 | ERROR | To: trancongtien406@gmail.com | Subject: Kiểm tra cấu hình email | Could not instantiate mail function.
+2025-04-27 19:39:13 | ERROR | To: trancongtien406@gmail.com | Subject: Kiểm tra cấu hình email | Could not instantiate mail function.
